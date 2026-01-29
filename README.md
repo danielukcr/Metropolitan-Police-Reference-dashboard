@@ -220,7 +220,7 @@ MARKED | UNMARKED
 <div id="acts" class="section">
 <h2>UK Legislation</h2>
 <p>
-<a href="https://https://danielukcr.github.io/Legislation/">Click here</a>
+<a href="https://danielukcr.github.io/Legislation/">Click here</a>
 </p>
 <p>
 </p>
