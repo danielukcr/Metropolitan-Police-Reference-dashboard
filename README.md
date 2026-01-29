@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Made by: Panther_cattreats / Daniel 
 <html lang="en">
 <head>
 <meta charset="UTF-8">
