@@ -7,31 +7,20 @@
 
 <style>
 body {
-  margin: 0;
-  font-family: Arial, sans-serif;
   background: #0b1022;
   color: #e2e8f0;
   line-height: 1.6;
 }
 
 header {
-  background: #111827;
-  padding: 16px;
-  border-bottom: 1px solid rgba(255,255,255,0.08);
+  background: #020617;
 }
 
 nav button {
   background: none;
-  border: none;
   color: #e2e8f0;
-  font-weight: bold;
-  margin-right: 12px;
-  cursor: pointer;
 }
 
-nav button:hover {
-  text-decoration: underline;
-}
 
 .container {
   max-width: 1200px;
