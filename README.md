@@ -50,21 +50,15 @@ ul {
 }
 
 pre {
-  background: #0b1022;
-  border: 1px solid rgba(255,255,255,0.08);
-  padding: 14px;
-  border-radius: 12px;
-  white-space: pre-wrap;
-  font-family: monospace;
+  background: #0b1022 !important;
+  color: #e5e7eb;
 }
 
 input {
-  padding: 8px;
-  border-radius: 8px;
-  border: none;
-  margin-right: 8px;
-  margin-bottom: 10px;
+  background: #0b1022 !important;
+  color: #e5e7eb;
 }
+
 </style>
 </head>
 
